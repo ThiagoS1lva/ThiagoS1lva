@@ -3,7 +3,6 @@
 - 🔭 Sou formado no ensino médio-técnico de petróleo e gás pelo IFF-Campus Cabo Frio e hoje sou um graduando em Ciência da computação pela UERJ - Maracanã
 - 🌱 Atualmente estou estudando HTML5, CSS, JAVASCRIPT e começando nas tecnicas de machine learning com PYTHON
 - 📫 Contate-me pelo email: thiagocontact2304@gmail.com
-- 😄 Pronouns: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/ThiagoS1lva">
