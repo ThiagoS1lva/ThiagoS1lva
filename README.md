@@ -1,7 +1,8 @@
 ### Olá, eu sou o Thiago Oliveira
 
 - 🔭 Sou formado no ensino médio-técnico de petróleo e gás pelo IFF-Campus Cabo Frio e hoje sou um graduando em Ciência da computação pela UERJ - Maracanã
-- 🌱 Atualmente estou estudando HTML5, CSS, JAVASCRIPT e começando nas tecnicas de machine learning com PYTHON
+- 🌱 Atualmente estou estudando para ser um programador web full stack
+- 📚 Linguagens: HTML5, CSS3, JAVASCRIPT, REACT-JS, PYTHON, C
 - 📫 Contate-me pelo email: thiagocontact2304@gmail.com
 
 <div align="center">
