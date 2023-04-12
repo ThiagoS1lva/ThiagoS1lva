@@ -1,6 +1,6 @@
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=34ebe1&height=160&section=header&text=Thiago%20Oliveira👨🏻‍💻&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+me+chamo+Thiago+Oliveira!;Atualmente+estou+cursando+Ci%C3%AAncia+da+computa%C3%A7%C3%A3o.;d%C3%AA+uma+olhada.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+me+chamo+Thiago+Oliveira!;Atualmente+estou+cursando+Ci%C3%AAncia+da+computa%C3%A7%C3%A3o.;d%C3%AA+uma+olhada.)](https://git.io/typing-svg)
 
 - 🔭 Sou formado no ensino médio-técnico de petróleo e gás pelo IFF-Campus Cabo Frio e hoje sou um graduando em Ciência da computação pela UERJ - Maracanã
 - 🌱 Atualmente estou estudando para ser um programador web full stack
