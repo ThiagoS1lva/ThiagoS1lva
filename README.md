@@ -1,4 +1,4 @@
-### Olá, eu sou o Thiago Oliveira
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=34ebe1&height=160&section=header&text=Thiago%20Oliveira👨🏻‍💻&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
 - 🔭 Sou formado no ensino médio-técnico de petróleo e gás pelo IFF-Campus Cabo Frio e hoje sou um graduando em Ciência da computação pela UERJ - Maracanã
 - 🌱 Atualmente estou estudando para ser um programador web full stack
