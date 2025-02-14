@@ -4,7 +4,7 @@
 
 - 🔭 Sou formado no ensino médio-técnico de petróleo e gás pelo IFF-Campus Cabo Frio e hoje sou um graduando em Ciência da computação pela UERJ - Maracanã
 - 🌱 Atualmente estou estudando para ser um programador web full stack
-- 📚 Linguagens: HTML5, CSS3, JAVASCRIPT, REACT-JS, PYTHON, C
+- 📚 Linguagens: HTML5, CSS3, JAVASCRIPT, REACT-JS, PYTHON, C, VUE-JS, DOTNET
 - 📫 Contate-me pelo email: thiagocontact2304@gmail.com
 
 <div align="center">
