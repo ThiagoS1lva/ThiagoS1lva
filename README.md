@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=34ebe1&height=160&section=header&text=Thiago%20Oliveira%20👨🏻‍💻&fontSize=32&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=34ebe1&height=160&section=header&text=Thiago%20Oliveira%20👨🏿‍💻&fontSize=32&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Thiago+Oliveira!;Graduando+em+Ciência+da+Computação;Desenvolvedor+Full+Stack+em+formação;Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
